@@ -1,11 +1,3 @@
-## Hello everyone from stage 2 (Or as many as I can find)!
-
-- First off if you have multiple github accounts, this is against Github's terms of service unless the second account is automated. You can add multiple email addresses to one Github account.
-
-- Secondly, It's called teams, that's how I found most of the accounts.
-
-- Thirdly, It's called search by commit author (Using city email addresses), that's how I found the other more elusive accounts.
-
 # Captain-ALM
 
 ## [www.captainalm.com](https://www.captainalm.com/)
