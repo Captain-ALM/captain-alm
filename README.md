@@ -9,3 +9,9 @@
 ## [City University Portfolio](https://cityuni.captainalm.com/)
 
 [![Captain-ALM's GitHub stats](https://github-readme-stats.vercel.app/api?username=captain-alm&show_icons=true&theme=onedark&include_all_commits=true&hide_border=true)](https://github.com/captain-alm)
+
+### Trying to contact me?
+
+If your initials are C G, you will need to unblock me first lol
+
+Otherwise, comms are suspended until the GMT afternoon of 01/05/2025 due to over-running engineering works
