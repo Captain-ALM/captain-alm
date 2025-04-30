@@ -14,4 +14,6 @@
 
 If your initials are C G, you will need to unblock me first lol
 
-Otherwise, comms are suspended until the GMT afternoon of 01/05/2025 due to over-running engineering works
+If you're Melon, email on the 02/05/2025 if you can make 03.
+
+Otherwise, comms are suspended until the GMT afternoon of **02**/05/2025 due to over-running engineering works
