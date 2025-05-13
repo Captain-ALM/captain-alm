@@ -14,6 +14,6 @@
 
 If your initials are C G, you will need to unblock me first lol
 
-If you're Melon, email on the 02/05/2025 if you can make 03.
+If you're Melon, email on the 15/05/2025 if you can make 17; my brain and eyes are fried I can't do any dev work.
 
-Otherwise, comms are suspended until the GMT afternoon of **02**/05/2025 due to over-running engineering works
+Otherwise, comms are suspended until the GMT morning of **19**/05/2025 due to over-running engineering works
