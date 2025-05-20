@@ -12,6 +12,6 @@
 
 ### Trying to contact me?
 
-If your initials are C G, you will need to unblock me first lol
+If your initials are C M S G, you will need to unblock me first lol
 
 **Engineering works clearing...**
