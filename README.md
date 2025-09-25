@@ -10,8 +10,4 @@
 
 [![Captain-ALM's GitHub stats](https://github-readme-stats.vercel.app/api?username=captain-alm&show_icons=true&theme=onedark&include_all_commits=true&hide_border=true)](https://github.com/captain-alm)
 
-### Trying to contact me?
-
-If your initials are C M S G, you will need to unblock me first ~~lol~~
-
-**Engineering works clearing... (Stand  By)**
+# Writing a PQC Protocol lib, stand by...
